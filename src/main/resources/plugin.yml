@@ -1,0 +1,4 @@
+main: spg.lgdev.addons.iSpigotEquipmentSet
+name: iSpigotEquipmentSetAddon
+version: 1.0.0
+load: STARTUP
